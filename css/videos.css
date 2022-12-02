@@ -1,0 +1,17 @@
+main h2{
+    background-color: yellow;
+    width: 15em;
+    text-align: center;
+    
+}
+main div1 {
+    
+    width: 500px;
+    height: 400px;
+    margin: 0px;
+    text-align: center;
+  }
+#video3 {
+    float: right;
+    margin-top: 59px;
+}

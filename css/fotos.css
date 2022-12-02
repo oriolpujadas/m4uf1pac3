@@ -1,0 +1,20 @@
+main h2{
+    background-color: yellow;
+    width: 20em;
+    text-align: center;
+    
+    
+}
+.caja{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+}
+.container  {
+  text-align: left;
+}
+.caja img{
+    width: 200px ;
+    height: 200px;
+}

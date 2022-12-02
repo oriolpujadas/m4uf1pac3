@@ -1,0 +1,13 @@
+main h2{
+    background-color: yellow;
+    width: 15em;
+    text-align: center;
+}
+main div{
+    border: 5px solid blue;
+    width: 540px;
+    height: 360px;
+    background-color: lightskyblue;
+    text-align: center;
+}
+    

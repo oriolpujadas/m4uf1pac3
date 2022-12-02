@@ -1,0 +1,15 @@
+aside {
+  padding: 1em ;
+}
+
+aside img {
+  float: left;
+  height: 25em;
+  margin-right: 2em;
+}
+
+main h2 {
+  background-color: yellow;
+  margin-left: 30%;
+  width: 10em;
+}

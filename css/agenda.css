@@ -1,0 +1,17 @@
+main h2{
+    background-color: yellow;
+    width: 15em;
+    text-align: center;
+}
+table{
+    border: 3px solid black;
+}
+table td{
+    border: 2px solid black;
+}
+main{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+   
